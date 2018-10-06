@@ -3,6 +3,7 @@
 #cp /Volumes/KINESIS\ KB/active/do_not_edit.txt ./active/
 #cp /Volumes/KINESIS\ KB/active/version.txt ./active/
 
+mkdir /Volumes/KINESIS\ KB/active
 cp active/state.txt /Volumes/KINESIS\ KB/active
 cp active/*qwerty.txt /Volumes/KINESIS\ KB/active
 cp active/*dvorak.txt /Volumes/KINESIS\ KB/active
